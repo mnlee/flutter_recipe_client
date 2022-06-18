@@ -1,0 +1,92 @@
+{
+  "success": true,
+  "count": 4,
+  "pagination": {},
+  "data": [{
+      "nutrition": {
+        "servingSize": "1",
+        "calories": "190.1 calories",
+        "carbohydrateContent": "6.7 g",
+        "cholesterolContent": "51 mg",
+        "fatContent": "14.1 g",
+        "fiberContent": "0.4 g",
+        "proteinContent": "9.1 g",
+        "sodiumContent": "343.5 mg"
+      },
+      "publicDisplay": true,
+      "image": "/uploads/photo-sample.jpeg",
+      "recipeIngredient": ["10 ounces boneless, skinless chicken thighs, trimmed of fat and diced into 1/4-inch cubes", "½ cup Italian-seasoned bread crumbs", "¼ cup chopped onion", "¼ cup shredded mozzarella cheese", "1 egg", "¼ cup mayonnaise", "½ teaspoon salt", "¼ teaspoon black pepper", "¼ teaspoon garlic powder", "2 tablespoons vegetable oil"],
+      "recipeInstructions": ["Mix chicken, bread crumbs, onion, mozzarella cheese, egg, mayonnaise, salt, pepper, and garlic powder in a bowl until well combined. Shape mixture into 8 equal-sized patties.\n", "Heat oil in a large skillet. Fry patties until lightly browned, about 5 minutes. Flip and fry for an additional 3 to 5 minutes. Transfer fritters to a paper towel-lined plate.\n"],
+      "recipeCategory": ["Meat and Poultry Recipes", "Chicken", "Chicken Thigh Recipes"],
+      "_id": "6138f067d923da0b6fa22369",
+      "name": "John III  Chicken Fritters",
+      "description": "These chicken fritters are delicious on their own but outstanding with a chicken dipping sauce. Finger food at its best!",
+      "prepTime": "P0DT0H15M",
+      "cookTime": "P0DT0H10M",
+      "totalTime": "P0DT0H25M",
+      "recipeYield": "8 servings",
+      "user": "6134b8a596b30b3627664fe9",
+      "createdAt": "2021-09-08T17:18:32.000Z",
+      "updatedAt": "2021-09-08T17:18:32.000Z",
+      "slug": "john-iii-chicken-fritters",
+      "__v": 0
+    }, {
+      "nutrition": {
+        "servingSize": "1",
+        "calories": "190.1 calories",
+        "carbohydrateContent": "6.7 g",
+        "cholesterolContent": "51 mg",
+        "fatContent": "14.1 g",
+        "fiberContent": "0.4 g",
+        "proteinContent": "9.1 g",
+        "sodiumContent": "343.5 mg"
+      },
+      "publicDisplay": true,
+      "image": "/uploads/photo-sample.jpeg",
+      "recipeIngredient": ["10 ounces boneless, skinless chicken thighs, trimmed of fat and diced into 1/4-inch cubes", "½ cup Italian-seasoned bread crumbs", "¼ cup chopped onion", "¼ cup shredded mozzarella cheese", "1 egg", "¼ cup mayonnaise", "½ teaspoon salt", "¼ teaspoon black pepper", "¼ teaspoon garlic powder", "2 tablespoons vegetable oil"],
+      "recipeInstructions": ["Mix chicken, bread crumbs, onion, mozzarella cheese, egg, mayonnaise, salt, pepper, and garlic powder in a bowl until well combined. Shape mixture into 8 equal-sized patties.\n", "Heat oil in a large skillet. Fry patties until lightly browned, about 5 minutes. Flip and fry for an additional 3 to 5 minutes. Transfer fritters to a paper towel-lined plate.\n"],
+      "recipeCategory": ["Meat and Poultry Recipes", "Chicken", "Chicken Thigh Recipes"],
+      "_id": "6134c5b6c1762a3a6e5a8521",
+      "name": "John II  Chicken Fritters",
+      "description": "These chicken fritters are delicious on their own but outstanding with a chicken dipping sauce. Finger food at its best!",
+      "prepTime": "P0DT0H15M",
+      "cookTime": "P0DT0H10M",
+      "totalTime": "P0DT0H25M",
+      "recipeYield": "8 servings",
+      "user": "6134b8a596b30b3627664fe9",
+      "createdAt": "2021-09-05T13:27:18.660Z",
+      "updatedAt": "2021-09-05T13:27:18.660Z",
+      "slug": "john-ii-chicken-fritters",
+      "__v": 0
+    }, {
+      "nutrition": {
+        "servingSize": "1",
+        "calories": "190.1 calories",
+        "carbohydrateContent": "6.7 g",
+        "cholesterolContent": "51 mg",
+        "fatContent": "14.1 g",
+        "fiberContent": "0.4 g",
+        "proteinContent": "9.1 g",
+        "sodiumContent": "343.5 mg"
+      },
+      "publicDisplay": true,
+      "image": "/uploads/photo-sample.jpeg",
+      "recipeIngredient": ["10 ounces boneless, skinless chicken thighs, trimmed of fat and diced into 1/4-inch cubes", "½ cup Italian-seasoned bread crumbs", "¼ cup chopped onion", "¼ cup shredded mozzarella cheese", "1 egg", "¼ cup mayonnaise", "½ teaspoon salt", "¼ teaspoon black pepper", "¼ teaspoon garlic powder", "2 tablespoons vegetable oil"],
+      "recipeInstructions": ["Mix chicken, bread crumbs, onion, mozzarella cheese, egg, mayonnaise, salt, pepper, and garlic powder in a bowl until well combined. Shape mixture into 8 equal-sized patties.\n", "Heat oil in a large skillet. Fry patties until lightly browned, about 5 minutes. Flip and fry for an additional 3 to 5 minutes. Transfer fritters to a paper towel-lined plate.\n"],
+      "recipeCategory": ["Meat and Poultry Recipes", "Chicken", "Chicken Thigh Recipes"],
+      "_id": "6134c323ce03bd39fc54c2ac",
+      "name": "Admin I Chicken Fritters",
+      "description": "These chicken fritters are delicious on their own but outstanding with a chicken dipping sauce. Finger food at its best!",
+      "prepTime": "P0DT0H15M",
+      "cookTime": "P0DT0H10M",
+      "totalTime": "P0DT0H25M",
+      "recipeYield": "8 servings",
+      "user": "6134b95e96b30b3627664ff3",
+      "createdAt": "2021-09-05T13:16:19.197Z",
+      "updatedAt": "2021-09-05T13:31:30.677Z",
+      "slug": "admin-i-chicken-fritters",
+      "__v": 0
+    }]
+ 
+    }
+  
