@@ -21182,7 +21182,7 @@ Ta:function Ta(){},
 pu:function pu(a){this.a=a},
 T9:function T9(a){var _=this
 _.e=!1
-_.f=$
+_.f=""
 _.a=null
 _.b=a
 _.c=null},
@@ -73170,7 +73170,7 @@ case 4:b.nG()
 q.bR()
 return A.R(null,r)}})
 return A.S($async$aH,r)},
-E(a,b){var s=null,r=A.a2("Users  version: "+A.a(this.f,"_version"),s,s,s,s,s,s,s)
+E(a,b){var s=null,r=A.a2("Users  version: "+this.f,s,s,s,s,s,s,s)
 r=A.lx(A.b([A.ej(B.v,s,s,B.eE,s,new A.ako(b),B.ao,s)],t.p),!0,r)
 return A.mu(r,this.e?B.bp:B.R8,B.cB)}}
 A.akq.prototype={
